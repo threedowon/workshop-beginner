@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OSCPlugin",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "3DOWON",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OSCPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+ 	"Plugins": [
+  		{
+      			"Name": "OSC",
+      			"Enabled": true
+  		}
+	]
+}
